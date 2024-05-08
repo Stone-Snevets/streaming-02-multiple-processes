@@ -1,0 +1,106 @@
+2024-05-08 10:59:14,783 - INFO - ===============================================
+2024-05-08 10:59:14,842 - INFO - Starting fake streaming process.
+2024-05-08 10:59:14,842 - INFO - Start streaming data from DRN_Nats.csv to ('localhost', 9999)
+2024-05-08 10:59:14,857 - INFO - Opened file for reading: DRN_Nats.csv
+2024-05-08 10:59:14,866 - INFO - Sent b'[1, 1, 20, QC, _, ch, 10, 1 follows, LAST WORD]' on Port 9999
+2024-05-08 10:59:17,868 - INFO - Sent b'[1, 2, 30, _, 9, _, 1, conc  +pt Noun]' on Port 9999
+2024-05-08 10:59:20,870 - INFO - Sent b'[1, 3, 10, 2, _, sec, 2, long]' on Port 9999
+2024-05-08 10:59:23,871 - INFO - Sent b'[1, 4, 20, QC, _, ch, 10, 1 follows, LAST WORD]' on Port 9999
+2024-05-08 10:59:26,873 - INFO - Sent b'[1, 5, 10, _, C, ch, 2, mentioned]' on Port 9999
+2024-05-08 10:59:29,875 - INFO - Sent b'[1, 6, 20, _, 3, s bk, 2, conc 3pt, verb]' on Port 9999
+2024-05-08 10:59:32,877 - INFO - Sent b'[1, 7, 10, _, C, ch, 3, adj, human = what]' on Port 9999
+2024-05-08 10:59:35,879 - INFO - Sent b'[1, 8, 30, _, C, 5c sec, 1, short sec question]' on Port 9999
+2024-05-08 10:59:38,881 - INFO - Sent b'[1, 9, 20, Q, _, 3c ch, 3, std ch]' on Port 9999
+2024-05-08 10:59:41,883 - INFO - Sent b'[1, 10, 10, QC, _, sec, 5, NOT LAST WORD]' on Port 9999
+2024-05-08 10:59:44,884 - INFO - Sent b'[1, 11, 20, SQ, 2, c ch, 4, conc ntbk, A in verse]' on Port 9999
+2024-05-08 10:59:47,886 - INFO - Sent b'[1, 12, 10, _, C, ch, 3, address]' on Port 9999
+2024-05-08 10:59:50,888 - INFO - Sent b'[1, 13, 30, T, 11, s bk, 0, conc bk, refers to readers]' on Port 9999
+2024-05-08 10:59:53,889 - INFO - Sent b'[1, 14, 20, 2Q, _, s bk, 7, conc ntbk, A in verse]' on Port 9999
+2024-05-08 10:59:56,891 - INFO - Sent b'[1, 15, 10, T, A, _, 10, answer question]' on Port 9999
+2024-05-08 10:59:59,893 - INFO - Sent b'[1, 16, 20, S2Q, _, _, 4, uw]' on Port 9999
+2024-05-08 11:00:02,894 - INFO - Sent b'[1, 17, 10, T, _, ch, 5, verb]' on Port 9999
+2024-05-08 11:00:05,896 - INFO - Sent b'[1, 18, 20, 2, 3A, s bk, 4, A sec]' on Port 9999
+2024-05-08 11:00:08,898 - INFO - Sent b'[1, 19, 10, _, C, sec, 2, verb]' on Port 9999
+2024-05-08 11:00:11,900 - INFO - Sent b'[1, 20, 20, Q, _, 3c ch, 3, std ch]' on Port 9999
+2024-05-08 11:00:14,902 - INFO - Sent b'[2, 1, 20, E, 3, c sec, 5, opening # vs]' on Port 9999
+2024-05-08 11:00:17,903 - INFO - Sent b'[2, 2, 10, _, _, ch, 3, end, of]' on Port 9999
+2024-05-08 11:00:20,905 - INFO - Sent b'[2, 3, 20, QC, _, ch, 10, 1 follows, LAST WORD]' on Port 9999
+2024-05-08 11:00:23,906 - INFO - Sent b'[2, 4, 10, _, C, ch, 1, __ verb what]' on Port 9999
+2024-05-08 11:00:26,908 - INFO - Sent b'[2, 5, 30, S, C, 4c sec, 13, vtgt]' on Port 9999
+2024-05-08 11:00:29,909 - INFO - Sent b'[2, 6, 20, QC, _, ch, 10, 1 follows, LAST WORD]' on Port 9999
+2024-05-08 11:00:32,910 - INFO - Sent b'[2, 7, 10, _, _, sec, 3, adj, end]' on Port 9999
+2024-05-08 11:00:35,913 - INFO - Sent b'[2, 8, 20, _, 4C, s bk, 2, conc 4pt]' on Port 9999
+2024-05-08 11:00:38,914 - INFO - Sent b'[2, 9, 10, _, C, sec, 3, verb]' on Port 9999
+2024-05-08 11:00:41,916 - INFO - Sent b'[2, 10, 30, EC, _, sec, 12, 9 follow, NOT LAST WORD]' on Port 9999
+2024-05-08 11:00:44,917 - INFO - Sent b'[2, 11, 20, SQ, _, ch, 5, A in verse]' on Port 9999
+2024-05-08 11:00:47,918 - INFO - Sent b'[2, 12, 10, _, _, sec, 5, how]' on Port 9999
+2024-05-08 11:00:50,920 - INFO - Sent b'[2, 13, 20, E, 4, c sec, 5, closing # vs]' on Port 9999
+2024-05-08 11:00:53,922 - INFO - Sent b'[2, 14, 10, _, C, sec, 3, _]' on Port 9999
+2024-05-08 11:00:56,924 - INFO - Sent b'[2, 15, 30, T, 10, s bk, 0, conc, refers to readers]' on Port 9999
+2024-05-08 11:00:59,926 - INFO - Sent b'[2, 16, 20, S2Q, _, _, 4, uw]' on Port 9999
+2024-05-08 11:01:02,928 - INFO - Sent b'[2, 17, 10, _, C, sec, 1, long]' on Port 9999
+2024-05-08 11:01:05,930 - INFO - Sent b'[2, 18, 20, _, C, 3s, 3, conc 3pt, end, verb]' on Port 9999
+2024-05-08 11:01:08,933 - INFO - Sent b'[2, 19, 10, _, A, ch, 1, Afv]' on Port 9999
+2024-05-08 11:01:11,935 - INFO - Sent b'[2, 20, 20, 2, C, 2c ch, 4, acc]' on Port 9999
+2024-05-08 11:01:14,937 - INFO - Sent b'[3, 1, 10, _, _, sec, 3, God is answer]' on Port 9999
+2024-05-08 11:01:17,939 - INFO - Sent b'[3, 2, 20, 3, C, 3c ch, 1, to ___ ___ said what]' on Port 9999
+2024-05-08 11:01:20,940 - INFO - Sent b'[3, 3, 30, _, 14, _, 1, conc noun]' on Port 9999
+2024-05-08 11:01:23,943 - INFO - Sent b'[3, 4, 20, S2Q, _, _, 4, uw]' on Port 9999
+2024-05-08 11:01:26,945 - INFO - Sent b'[3, 5, 10, T, A, ch, 8, A follows A]' on Port 9999
+2024-05-08 11:01:29,946 - INFO - Sent b'[3, 6, 30, EC, _, sec, 12, 4 follows, LAST WORD]' on Port 9999
+2024-05-08 11:01:32,948 - INFO - Sent b'[3, 7, 20, SQ, 2, c ch, 4, conc ntbk, A in verse]' on Port 9999
+2024-05-08 11:01:35,950 - INFO - Sent b'[3, 8, 20, 3E, _, c sec, 5, closing # vs]' on Port 9999
+2024-05-08 11:01:38,952 - INFO - Sent b'[3, 9, 10, _, C, sec, 3, verb]' on Port 9999
+2024-05-08 11:01:41,954 - INFO - Sent b'[3, 10, 10, 2, _, ch, 3, bad]' on Port 9999
+2024-05-08 11:01:44,956 - INFO - Sent b'[3, 11, 20, E, 4, c sec, 5, closing # vs]' on Port 9999
+2024-05-08 11:01:47,957 - INFO - Sent b'[3, 12, 30, 2, C, 4c sec, 4, answer question(s)]' on Port 9999
+2024-05-08 11:01:50,959 - INFO - Sent b'[3, 13, 10, T, 2C, sec, 2, verb]' on Port 9999
+2024-05-08 11:01:53,962 - INFO - Sent b'[3, 14, 20, 3, C, 3c ch, 4, to ___ ___ said what]' on Port 9999
+2024-05-08 11:01:56,963 - INFO - Sent b'[3, 15, 10, _, C, ch, 3, address]' on Port 9999
+2024-05-08 11:01:59,965 - INFO - Sent b'[3, 16, 20, 2, C, 2c ch, 4, acc ]' on Port 9999
+2024-05-08 11:02:02,967 - INFO - Sent b'[3, 17, 10, 3, _, sec, 2, verb]' on Port 9999
+2024-05-08 11:02:05,969 - INFO - Sent b'[3, 18, 20, _, 3A, s bk, 5, A sec]' on Port 9999
+2024-05-08 11:02:08,971 - INFO - Sent b'[3, 19, 10, _, C, sec, 2, verb]' on Port 9999
+2024-05-08 11:02:11,973 - INFO - Sent b'[3, 20, 20, Q, _, 3c ch, 3, std ch]' on Port 9999
+2024-05-08 11:02:14,975 - INFO - Sent b'[4, 1, 20, S2Q, _, _, 4, uw]' on Port 9999
+2024-05-08 11:02:17,977 - INFO - Sent b'[4, 2, 30, Q, 4, s bk, 6, conc 4pt]' on Port 9999
+2024-05-08 11:02:20,979 - INFO - Sent b'[4, 3, 10, _, _, sec, 2, _]' on Port 9999
+2024-05-08 11:02:23,981 - INFO - Sent b'[4, 4, 20, E, 4, c sec, 5, opening # vs]' on Port 9999
+2024-05-08 11:02:26,983 - INFO - Sent b'[4, 5, 10, 2, _, sec, 2, verb, ? v ?]' on Port 9999
+2024-05-08 11:02:29,985 - INFO - Sent b'[4, 6, 20, 3, C, 3c ch, 4, to ___ ___ said what]' on Port 9999
+2024-05-08 11:02:32,986 - INFO - Sent b'[4, 7, 10, T, _, ch, 2, verb, who said A]' on Port 9999
+2024-05-08 11:02:35,988 - INFO - Sent b'[4, 8, 30, 4, C, 4c ch, 4, hd]' on Port 9999
+2024-05-08 11:02:38,990 - INFO - Sent b'[4, 9, 20, 2, C, 2c ch, 4, acc ]' on Port 9999
+2024-05-08 11:02:41,992 - INFO - Sent b'[4, 10, 10, _, C, sec, 5, _]' on Port 9999
+2024-05-08 11:02:44,994 - INFO - Sent b'[4, 11, 20, Q, _, 3c bk, 9, std bk]' on Port 9999
+2024-05-08 11:02:47,995 - INFO - Sent b'[4, 12, 10, T, 2, ch, 4, verb]' on Port 9999
+2024-05-08 11:02:50,997 - INFO - Sent b'[4, 13, 30, E, _, 5c bk, 13, std bk]' on Port 9999
+2024-05-08 11:02:53,999 - INFO - Sent b'[4, 14, 20, _, 4A, s bk, 4, A sec]' on Port 9999
+2024-05-08 11:02:57,001 - INFO - Sent b'[4, 15, 10, _, C, sec, 3, verb]' on Port 9999
+2024-05-08 11:03:00,003 - INFO - Sent b'[4, 16, 20, QC, _, ch, 10, 1 follows, LAST WORD]' on Port 9999
+2024-05-08 11:03:03,005 - INFO - Sent b'[4, 17, 10, 2, _, ch, 1, verb]' on Port 9999
+2024-05-08 11:03:06,007 - INFO - Sent b'[4, 18, 20, 3, C, 3c ch, 4, to ___ ___ said what]' on Port 9999
+2024-05-08 11:03:09,009 - INFO - Sent b'[4, 19, 10, _, C, ch, 1, verb]' on Port 9999
+2024-05-08 11:03:12,011 - INFO - Sent b'[4, 20, 20, 3, C, 3c ch, 4, to ___ ___ said what]' on Port 9999
+2024-05-08 11:03:15,013 - INFO - Sent b'[5, 1, 10, _, C, sec, 4, end]' on Port 9999
+2024-05-08 11:03:18,015 - INFO - Sent b'[5, 2, 20, _, 3A, s bk, 5, A sec]' on Port 9999
+2024-05-08 11:03:21,015 - INFO - Sent b'[5, 3, 30, E, _, 7c bk, 14, std bk]' on Port 9999
+2024-05-08 11:03:24,017 - INFO - Sent b'[5, 4, 20, Q, _, 3c ch, 3, std ch]' on Port 9999
+2024-05-08 11:03:27,018 - INFO - Sent b'[5, 5, 10, T, C, sec, 1, _]' on Port 9999
+2024-05-08 11:03:30,019 - INFO - Sent b'[5, 6, 30, EC, _, sec, 12, 5 follow, LAST WORD]' on Port 9999
+2024-05-08 11:03:33,020 - INFO - Sent b'[5, 7, 20, 2, C, 2c ch, 4, acc]' on Port 9999
+2024-05-08 11:03:36,021 - INFO - Sent b'[5, 8, 10, _, C, sec, 3, end]' on Port 9999
+2024-05-08 11:03:39,022 - INFO - Sent b'[5, 9, 20, _, 4, _, 1, conc noun]' on Port 9999
+2024-05-08 11:03:42,023 - INFO - Sent b'[5, 10, 10, E, _, bk, 8, std bk, one verse]' on Port 9999
+2024-05-08 11:03:45,024 - INFO - Sent b'[5, 11, 20, _, 4A, s bk, 5, A sec]' on Port 9999
+2024-05-08 11:03:48,026 - INFO - Sent b'[5, 12, 30, _, C, 5c sec, 1, remember]' on Port 9999
+2024-05-08 11:03:51,026 - INFO - Sent b'[5, 13, 10, _, C, ch, 3, address]' on Port 9999
+2024-05-08 11:03:54,028 - INFO - Sent b'[5, 14, 20, S2Q, _, _, 4, uw]' on Port 9999
+2024-05-08 11:03:57,029 - INFO - Sent b'[5, 15, 10, _, C, sec, 2, _]' on Port 9999
+2024-05-08 11:04:00,030 - INFO - Sent b'[5, 16, 20, 2, 4C, 2c ch, 4, acc]' on Port 9999
+2024-05-08 11:04:03,031 - INFO - Sent b'[5, 17, 10, _, _, sec, 3, verb]' on Port 9999
+2024-05-08 11:04:06,033 - INFO - Sent b'[5, 18, 20, 2Q, _, s, 3, conc 2pt, ref & ref]' on Port 9999
+2024-05-08 11:04:09,034 - INFO - Sent b'[5, 19, 10, 3, A, _, 2, A titles]' on Port 9999
+2024-05-08 11:04:12,035 - INFO - Sent b'[5, 20, 20, SQ, 2, c sec, 4, conc ntbk, A in verse]' on Port 9999
+2024-05-08 11:04:15,037 - INFO - Streaming complete!
+2024-05-08 11:04:15,037 - INFO - ===============================================
