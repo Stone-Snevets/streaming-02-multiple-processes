@@ -80,6 +80,10 @@ Use out0.txt to document the first run.
 
 Use out3.txt to document the second run.
 
+## Task 8. Run with Custom Input File
+
+Use a different CSV file, and create the code to stream the contents of that file.
+
 
 -----
 
